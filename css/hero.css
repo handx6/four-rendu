@@ -1,0 +1,48 @@
+/* hero */
+#hero {
+  text-align: center;
+  background-image: url('../images/hero.avif');
+  background-position: center;
+  background-size: cover;
+  height: 600px;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#hero h1 {
+  margin: 0;
+  font-size: 6rem;
+}
+
+#hero p {
+  font-size: 2rem;
+  margin: 0;
+}
+
+.btn_primary {
+  background-color: #333A7B;
+  color: #fff;
+  padding: 15px 25px;
+  font-size: 1.5rem;
+  border-radius: 15px;
+  margin-top: 20px;
+}
+
+.btn_primary:hover {
+  background-color: #4d56ab;
+}
+
+.text_primary {
+  background-color: #70C6C7;
+  padding: 3px 10px;
+}
+
+.trait{
+  background-color: #fff;
+  padding: 1px ;
+  width: 60%;
+  margin-top: 35px;
+}

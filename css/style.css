@@ -1,0 +1,11 @@
+@import url('hero.css');
+
+body {
+  font-family: 'Nunito', sans-serif;
+}
+
+/* section twitch */
+.bg-card-gradient {
+  background: rgb(249,242,250);
+  background: radial-gradient(circle, rgba(249,242,250,1) 0%, rgba(252,245,255,1) 1%, rgba(53, 61, 152, 0.099) 100%, rgba(245,246,255,1) 100%);
+}
